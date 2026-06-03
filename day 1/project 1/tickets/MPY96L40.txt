@@ -1,0 +1,4 @@
+Prio: Urgent
+Name: kraftan
+Submitted: 2026-06-03T18:00:45.078+02:00
+Description: Laptop turns on and BIOS loads, but then hangs before Windows boots. Device does not proceed past BIOS screen. Requires immediate hardware/boot diagnostics and support.
